@@ -163,12 +163,6 @@ Vrel
 Alpha
 Vindx
 Vindy
-Cn
-Ct
-Fn
-Ft
-Fx
-Fy
 TnInd
 AxInd
 END (the word "END" must appear in the first 3 columns of this last OutList line in the optional nodal output section)
